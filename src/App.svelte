@@ -1,9 +1,9 @@
 <script>
-  import Navbar from "./Nav.svelte";
+  import Web from "./Web.svelte";
 </script>
 
 <main>
-  <Navbar />
+  <Web />
 </main>
 
 <style>
